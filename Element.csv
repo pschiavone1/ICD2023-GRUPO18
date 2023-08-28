@@ -1,0 +1,372 @@
+"id","fecha_creado","fecha_modificado","usuario_creador","usuario_modificador","aprovado_fecha","copete","descripcion","estado_elemento","fecha_elemento_fin","fecha_elemento_inicio","fecha_info_fin","fecha_info_inicio","fuente","info_adicional","ingresado_fecha","nombre","orden","rol_minimo","tenant","visitas","aprovado_por_id","ingresado_por_id","institucion_id","lenguaje_id","modulo_id","pais_id","descripcion_html","tenant_id","estado_modulo_id","tipo_modulo_id","orden_destacado"
+2,"2022-08-31 15:03:19.981205-03","2022-08-31 15:03:19.981233-03",NULL,NULL,NULL,"b","c","ACTIVO","2022-08-31 00:00:00","2022-08-01 00:00:00","2022-08-31 00:00:00","2022-08-01 00:00:00","f","g",NULL,"a",0,NULL,NULL,NULL,NULL,NULL,1,1,3,NULL,"<p>d</p>
+",1,1,1,NULL
+5,"2022-09-12 13:18:57.437-03","2022-10-18 13:20:48.99-03",NULL,NULL,NULL,"Actividad intersectorial tendiente a generar nuevos negocios de triple impacto",NULL,"ELIMINADO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"2do Encuentro de Negocios Agro Turismo",3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4,NULL,"",3,NULL,NULL,4
+7,"2022-09-12 13:22:35.11-03","2022-10-17 16:18:03.175-03",NULL,NULL,NULL,"mercado de frutas y verduras en Brasil gana el premio a la mejor reconstrucción tras el COVID-19","La iniciativa Nova Ceasa, un proyecto de mercado de frutas y verduras en el estado brasileño de Piauí ganó el primer premio del concurso a la mejor infraestructura convocado por la Comisión Económica para Europa","ELIMINADO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Mercado de frutas y verduras en Brasil gana l premio",4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4,NULL,"",3,NULL,NULL,4
+13,"2022-09-12 13:29:28.563-03","2022-09-12 13:29:28.563-03",NULL,NULL,NULL,NULL,NULL,"ACTIVO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"ANII busca emprendimientos extranjeros para que se instalen en Uruguay",5,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5,NULL,"",3,NULL,NULL,NULL
+17,"2022-09-12 13:50:01.365-03","2022-10-17 12:36:20.163-03",NULL,NULL,NULL,NULL,NULL,"ACTIVO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Título del proyecto de varias líneas #4",4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,6,NULL,"",3,NULL,NULL,4
+19,"2022-09-13 16:54:18.517-03","2022-10-17 16:18:32.804-03",NULL,NULL,NULL,"Los líderes son los responsables de crear, desarrollar y sostener la cultura de sus organizaciones. Brindaremos herramientas para que los líderes puedan instalar una cultura para el triple impacto dentro de sus organizaciones",NULL,"ELIMINADO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Cultura y Liderazgo para el Triple Impacto",1,NULL,NULL,NULL,NULL,NULL,NULL,1,8,1,"",3,NULL,NULL,NULL
+22,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"ACTIVO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Taller Cambadu.",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,13,NULL,"<h1>Bienvenidos</h1><p>Este espacio ha sido construido como lugar de encuentro. <br />Aquí podrás encontrar materiales/documentación de la construcción del taller.<br />También habrá información y medios de comunicación para que los integrantes del grupo puedan interactuar entre si.</p>",4,NULL,7,NULL
+32,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"ACTIVO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Bienvenidos",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,16,NULL,"<img src=""assets/img/pages/home/oid-bienvenidos.jpg"" class=""img-fluid"" />",5,NULL,10,NULL
+10,"2022-09-12 13:27:19.537-03","2022-10-17 16:21:25.103-03",NULL,NULL,NULL,NULL,NULL,"ELIMINADO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Llamados de la ANII",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5,NULL,"",3,NULL,NULL,2
+31,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"ACTIVO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"TALLER DE BUENAS PRÁCTICAS - LIDERAR CON IMPACTO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,16,NULL,"<h1>Bienvenidos</h1>
+<p><img class=""img-fluid"" src=""https://drive.google.com/uc?export=view&amp;id=1vchjdami_s6fxTqAqqO4sDvl72o6wvT4"" /></p>",5,NULL,9,NULL
+23,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"ACTIVO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,13,NULL,"<img src=""assets/img/pages/home/oid-bienvenidos.jpg"" class=""img-fluid"" />",4,NULL,8,NULL
+40,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"ACTIVO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Archivo Destacado",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,18,NULL,"",5,NULL,11,NULL
+41,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"ACTIVO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Material inspirador",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,18,NULL,"textos",5,NULL,12,NULL
+42,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"ACTIVO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Carpeta compartida",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,18,NULL,"Html con el link",5,NULL,13,NULL
+8,"2022-09-12 13:23:49.613-03","2023-01-05 15:12:27.459-03",NULL,NULL,NULL,"Research into what causes Alzheimer's and how it might be treated involves a number of possibilities, but scientists are continually coming back to is brain plaques playing a central role in driving the disease. It follows that researchers are investigati",NULL,"ACTIVO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Novel Alzheimer's treatment clears brain plaques with light and oxygen",7,NULL,NULL,NULL,NULL,NULL,16,2,11,NULL,"",3,NULL,15,5
+15,"2022-09-12 13:44:12.235-03","2022-10-17 16:22:44.112-03",NULL,NULL,NULL,"Proyecto de Maestría en Química, UDELAR",NULL,"ELIMINADO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Estudio de formas de mitigar la presencia de residuos de antibióticos en la leche mediante soluciones biotecnológicas",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,6,NULL,"",3,NULL,NULL,2
+21,"2022-09-14 12:01:24.951-03","2022-10-17 16:18:52.144-03",NULL,NULL,NULL,NULL,NULL,"ELIMINADO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Llamado para actividad x",NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,9,1,"",3,4,6,NULL
+6,"2022-09-12 13:20:48.75-03","2022-12-12 18:18:42.613-03",NULL,NULL,NULL,"Esta es una victoria monumental para nuestro planeta, para nuestros hijos, para lograr un futuro habitable para todos», afirmó Pols tras la lectura del fallo.","Esta es una victoria monumental para nuestro planeta, para nuestros hijos, para lograr un futuro habitable para todos», afirmó Pols tras la lectura del fallo. «El juez no ha dejado lugar a dudas: Shell está provocando un cambio climático peligroso y debe detener ya su comportamiento destructivo","ACTIVO",NULL,NULL,NULL,"2020-01-12 00:00:00",NULL,NULL,NULL,"Tribunal de la Haya condena a Shell a reducir sus emisiones un 45% para 2030",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4,NULL,"",3,NULL,NULL,2
+9,"2022-09-12 13:26:39.311-03","2022-12-13 09:23:44.917-03",NULL,NULL,NULL,NULL,NULL,"ACTIVO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Donaciones para continuar obra de apoyo a las mujeres y sus familias, en contextos vulnerables",1,NULL,NULL,NULL,NULL,NULL,3,NULL,9,NULL,"",3,NULL,NULL,1
+14,"2022-09-12 13:32:26.977-03","2022-10-05 18:15:36.247-03",NULL,NULL,NULL,"Proyecto de investigacion sobre la Economia Circular y el Cambio Climatico",NULL,"ACTIVO","2022-09-30 00:00:00","2022-09-01 00:00:00","2020-01-02 00:00:00","2020-01-02 00:00:00",NULL,NULL,NULL,"Economia Circular y Cambio Climatico",1,NULL,NULL,NULL,NULL,NULL,4,1,6,1,"",3,NULL,NULL,1
+11,"2022-09-12 13:27:47.273-03","2022-10-17 12:35:13.219-03",NULL,NULL,NULL,NULL,NULL,"ACTIVO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Fondo Concursable para el sector turístico en Lavalleja, Treinta y Tres y Cerro Largo",3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5,NULL,"",3,NULL,NULL,3
+12,"2022-09-12 13:29:07.251-03","2022-10-17 12:35:29.521-03",NULL,NULL,NULL,NULL,NULL,"ACTIVO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Todos podemos ser Artistas - llamados a proyectos artísticos que contemplen la inclusión",4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5,NULL,"",3,NULL,NULL,4
+16,"2022-09-12 13:48:28.266-03","2022-10-17 13:09:17.067-03",NULL,NULL,NULL,"Demostrar tecnologías de valorización de residuos agroindustriales en el contexto de la economía circular junto a la academia",NULL,"ACTIVO","1970-01-02 00:00:00","1970-01-02 00:00:00","1970-01-02 00:00:00","1970-01-02 00:00:00",NULL,NULL,NULL,"Circularidad de nutrientes en Tambos",3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,6,NULL,"",3,NULL,NULL,3
+20,"2022-09-13 17:17:46.983-03","2022-10-17 16:24:27.406-03",NULL,NULL,NULL,"El objetivo de esta convocatoria es la reactivación del Turismo, con foco en: Cerro Arequita, Quebrada de los Cuervos, La charqueada y alrededores de Melo.","El objetivo de esta convocatoria es la reactivación de uno de los sectores más afectados por las consecuencias generadas por la pandemia, y está focalizado en estos tres departamentos, considerados destinos turísticos emergentes. Se buscará apoyar a peq","ELIMINADO","2022-09-30 00:00:00","2022-09-01 00:00:00","2022-09-30 00:00:00","2022-09-01 00:00:00","Misiterio de Turismo",NULL,NULL,"Fondo Concursable para el sector turístico en Lavalleja, Treinta y Tres y Cerro Largo",1,NULL,NULL,NULL,NULL,NULL,7,1,9,1,"",3,4,6,NULL
+44,"2022-10-26 12:03:37.691-03","2022-12-27 17:23:28.281-03",NULL,NULL,NULL,"Evento Copete","Evento Descripción","ACTIVO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Prueba Eventos MARTIN",1,NULL,NULL,NULL,NULL,NULL,3,NULL,8,1,"",3,NULL,NULL,NULL
+50,"2022-12-12 10:38:09.734-03","2022-12-26 13:34:37.107-03",NULL,NULL,NULL,NULL,"Proyecto de Maestría en Química, UDELAR","ACTIVO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Estudio de formas de mitigar la presencia de residuos de antibióticos en la leche mediante soluciones biotecnológicas",NULL,NULL,NULL,NULL,NULL,NULL,4,NULL,10,1,NULL,3,8,NULL,NULL
+48,"2022-11-30 15:53:55.995-03","2023-01-02 15:44:23.748-03",NULL,NULL,NULL,"AMBÁ es un grupo interdisciplinario impulsado por la intención de conservar y regenerar la biodiversidad en el Uruguay.","Monitoreo y cuidado de especies animales , regeneración de monte nativo","ELIMINADO","2022-12-31 15:00:00","2022-08-09 12:00:00","2022-12-31 21:00:00","2021-12-01 06:00:00",NULL,NULL,NULL,"Programas de AMBÁ",1,NULL,NULL,NULL,NULL,NULL,11,NULL,10,1,NULL,3,NULL,NULL,1
+47,"2022-11-30 15:50:34.342-03","2022-11-30 15:51:25.982-03",NULL,NULL,NULL,NULL,NULL,"ELIMINADO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,6,NULL,NULL,3,NULL,NULL,NULL
+49,"2022-12-12 08:06:46.016-03","2022-12-12 08:07:06.98-03",NULL,NULL,NULL,NULL,NULL,"ELIMINADO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,32,NULL,NULL,3,NULL,NULL,NULL
+3,"2022-09-12 12:26:01.422-03","2022-12-27 17:19:08.199-03",NULL,NULL,NULL,"Primera Plataforma colaborativa donde se concentra todas las iniciativas vinculadas al triple impacto desde actividades de diversa índole, como profesionales, empresariales, académicas, recreativas que estaban dispersas y hoy se encuentran en un solo luga","Primera Plataforma colaborativa donde se concentra todas las iniciativas vinculadas al triple impacto desde actividades de diversa índole, como profesionales, empresariales, académicas, recreativas que estaban dispersas y hoy se encuentran en un solo lugar.","ACTIVO",NULL,NULL,NULL,"2022-08-09 18:00:00",NULL,"infoAdicionalVal",NULL,"Impacto B ""coming soon""",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4,NULL,"",3,NULL,24,1
+45,"2022-11-28 14:28:21.145-03","2023-01-05 15:12:27.459-03",NULL,NULL,NULL,NULL,NULL,"PENDIENTE",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,11,NULL,NULL,3,NULL,NULL,NULL
+57,"2022-12-26 12:35:57.865-03","2023-01-02 15:46:01.294-03",NULL,NULL,NULL,"Por cada metro2 de operación existente en una compañia, aporta lo equivalente para PRODUCIR LA NATURALEZA","En la sierra de las ánimas, se desarrolla 100+ que  propone que por cada metro cuadrado de operación ya existente en una compañia, la misma aporta lo equivalente para PRODUCIR LA NATURALEZA, les decir trabajar en la conservacón y regeneración de la Nauraleza.","ACTIVO",NULL,"2022-02-02 00:00:00",NULL,"2018-11-01 03:00:00","Reimpulso",NULL,NULL,"100 +",1,NULL,NULL,NULL,NULL,NULL,13,NULL,10,1,NULL,3,6,NULL,1
+55,"2022-12-22 10:02:14.626-03","2022-12-29 15:01:22.25-03",NULL,NULL,NULL,"Recomendaciones para técnicos y administraciones para que toda la población pueda rehabilitar su vivienda (Copete)","Recomendaciones para técnicos y administraciones para que toda la población pueda rehabilitar su vivienda (Descripción extensa)","ACTIVO",NULL,"2022-12-01 12:00:00","2022-12-21 09:00:00","2022-12-21 09:00:00","ecodes@ecodes.org",NULL,NULL,"Recomendaciones para la rehabilitación energética en hogares en situación de vulnerabilidad",NULL,NULL,NULL,NULL,NULL,NULL,3,1,8,1,"",3,11,NULL,NULL
+58,"2022-12-26 14:29:44.922-03","2022-12-26 19:56:42.068-03",NULL,NULL,NULL,"Reducir la contaminación recolectando colillas en Uruguay, concientizando sobre el daño. Pintada de murales por escolares con pinturas creadas por  el reciclaje de colillas.","Reducir la contaminación mediante la concientización y recolección de colillas de cigarros en Uruguay.  Pintada de murales por escolares con pinturas creadas por  el reciclaje de colillas.","ACTIVO",NULL,NULL,NULL,NULL,"NMC (no más colillas)",NULL,NULL,"No más colillas",4,NULL,NULL,NULL,NULL,NULL,14,NULL,10,1,NULL,3,6,NULL,3
+56,"2022-12-23 15:55:37.686-03","2023-01-02 14:00:27.849-03",NULL,NULL,NULL,"LIBERÁ TU BICICLETA es un proyecto que recupera bicicletas. Reciben donaciones de bicis que ya no se usan, las reparan en forma colaborativa y honoraria y se las llevan gratuitamente las personas que las arman o solicitan.","LIBERÁ TU BICICLETA es un proyecto que recupera bicicletas. Reciben donaciones de bicis que ya no se usan, las reparan en forma colaborativa y honoraria y se las llevan gratuitamente las personas que las arman o solicitan.","ACTIVO","2023-02-28 09:00:00","2022-12-01 09:00:00","2023-01-31 09:00:00","2022-12-01 09:00:00",NULL,NULL,NULL,"Liberá tu bicicleta",50,NULL,NULL,NULL,NULL,NULL,14,NULL,10,1,NULL,3,6,NULL,3
+61,"2022-12-29 11:55:07.561-03","2023-01-05 15:10:02.716-03",NULL,NULL,NULL,"Que son los ODS? Objetivos de Desarrollo Sostenible","Los ODS, fueron adoptados por la ONU en 2015 como un llamamiento universal para poner fin a la pobreza, proteger el planeta y garantizar la paz y prosperidad para el 2030el 2030 ","ACTIVO",NULL,"2022-12-29 06:00:00",NULL,NULL,NULL,NULL,NULL,"ODS",1,NULL,NULL,NULL,NULL,NULL,18,1,11,NULL,NULL,3,NULL,15,NULL
+59,"2022-12-27 20:03:35.67-03","2023-01-05 15:12:27.459-03",NULL,NULL,NULL,"Requerimientos y pasos a seguir para certificarse como Empresa B","Requerimientos y pasos a seguir para que una empresa obtenga la certificación B","ACTIVO",NULL,"2022-12-27 06:00:00",NULL,"2022-12-27 06:00:00","",NULL,NULL,"Cómo ser una Empresa B certificada?",5,NULL,NULL,NULL,NULL,NULL,5,1,11,NULL,NULL,3,NULL,31,NULL
+68,"2023-01-03 09:20:52.787-03","2023-01-05 15:12:27.459-03",NULL,NULL,NULL,"¿Qué significa estar en sobregiro?","Global Footprint Network, la organización internacional de sostenibilidad pionera en contabilizar la huella ecológica, midiendo el impacto de nuestro estilo de vida en el planeta, reportó que, tras 208 días del 2022, la humanidad terminó con el capital na","ACTIVO",NULL,NULL,NULL,"2022-07-28 15:00:00","WWL",NULL,NULL,"Día del Sobregiro de la Tierra: en menos de 7 meses agotamos los recursos de todo el año",3,NULL,NULL,NULL,NULL,NULL,12,1,11,1,NULL,3,NULL,15,NULL
+67,"2023-01-02 20:28:18.185-03","2023-01-05 15:12:27.459-03",NULL,NULL,NULL,"Uruguay es sede de la primera reunión que busca elaborar el primer tratado internacional legalmente vinculante que ponga fin a la contaminación por plásticos",NULL,"ACTIVO",NULL,"2023-01-02 03:00:00",NULL,"2023-01-02 03:00:00",NULL,NULL,NULL,"Uruguay es sede de !a reunión para elaborar el primer tratado internacional sobre contaminación por plástico",4,NULL,NULL,NULL,NULL,NULL,21,1,11,NULL,NULL,3,NULL,15,NULL
+63,"2023-01-02 14:14:26.638-03","2023-01-02 14:14:26.638-03",NULL,NULL,NULL,NULL,"Impulsar le Triple Impacto","ACTIVO",NULL,"2023-01-02 00:00:00",NULL,"2023-01-02 00:00:00",NULL,NULL,NULL,"Sistema B",1,NULL,NULL,NULL,NULL,NULL,5,NULL,7,NULL,NULL,3,NULL,5,NULL
+60,"2022-12-28 12:39:02.349-03","2023-04-12 16:41:05.193-03",NULL,NULL,NULL,NULL,NULL,"ACTIVO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Ambá",8,NULL,NULL,NULL,NULL,NULL,11,NULL,7,NULL,NULL,3,NULL,5,NULL
+43,"2022-10-19 15:45:50.927-03","2023-02-28 00:11:25.89-03",NULL,NULL,NULL,"Webinar sobre ""Carbono y estrategias de compensación"", incluye riesgos, evidencias científicas, estrategias, etc","Qué es una Huella de Carbono? La suma de emisiones de gases de efecto invernadero correspondientes a una actividad durante un período de tiempo.","ACTIVO","2030-12-31 00:00:00","2022-10-19 09:00:00","2022-12-22 06:00:00","2022-10-19 09:00:00","Kolibri",NULL,NULL,"Carbono y estrategias de compensación",2,NULL,NULL,NULL,NULL,NULL,5,1,11,NULL,"",3,NULL,17,NULL
+53,"2022-12-13 09:15:51.554-03","2023-03-03 17:23:01.796-03",NULL,NULL,NULL,"Apoyo al fortalecimiento institucional para la implementación de la Política de Movilidad Urbana Sostenible en Uruguay",NULL,"ACTIVO","2030-12-31 03:00:00","2022-12-01 09:00:00","2022-12-30 09:00:00","2022-12-01 09:00:00",NULL,NULL,NULL,"Movilidad sostenible",60,NULL,NULL,NULL,NULL,NULL,10,NULL,9,NULL,NULL,3,10,NULL,10
+69,"2023-01-10 12:20:43.979-03","2023-01-10 12:24:21.967-03",NULL,NULL,NULL,"¿Dónde Reciclo? es una herramienta web y una app para iOS y Android que te ayuda a encontrar contenedores para tus residuos reciclables en todo Uruguay, a aprender cómo clasificar mejor en casa y conocer más sobre materiales y reciclaje en Uruguay. "," En Uruguay existen muchos esfuerzos destinados a la recuperación de residuos sólidos para su revalorización, tratamiento o disposición final adecuados. Sin embargo la diversidad de programas y el desconocimiento de cada uno de ellos, redunda en que mucha","ACTIVO","2023-01-31 03:00:00","2023-01-01 03:00:00",NULL,NULL,NULL,NULL,NULL,"Dónde reciclo",5,NULL,NULL,NULL,NULL,NULL,NULL,NULL,32,NULL,NULL,3,NULL,NULL,NULL
+64,"2023-01-02 15:14:37.401-03","2023-01-02 15:14:37.401-03",NULL,NULL,NULL,NULL,NULL,"ACTIVO",NULL,"2023-01-02 00:00:00",NULL,"2023-01-02 00:00:00",NULL,NULL,NULL,"IBM",3,NULL,NULL,NULL,NULL,NULL,19,NULL,7,NULL,NULL,3,NULL,5,NULL
+62,"2023-01-02 12:26:16.403-03","2023-01-02 15:45:44.282-03",NULL,NULL,NULL,"ONG  que trabaja para conservar la Biodiversidad y regenerar la Naturaleza en las serranías de Rocha","ONG compuesta por u grupo interdisciplinario que trabaja para conservar la Biodiversidad y regenerar la Naturaleza en las serranías de Rocha","ACTIVO",NULL,NULL,NULL,"2016-01-01 12:00:00","Inti Carro",NULL,NULL,"Regeneración de la Naturaleza por AMBÁ",2,NULL,NULL,NULL,NULL,NULL,11,NULL,10,1,NULL,3,6,NULL,4
+66,"2023-01-02 15:26:30.066-03","2023-01-02 16:11:04.073-03",NULL,NULL,NULL,NULL,NULL,"ACTIVO",NULL,"2023-01-01 00:00:00",NULL,"2023-01-02 09:00:00",NULL,NULL,NULL,"Fidocar",5,NULL,NULL,NULL,NULL,NULL,20,NULL,7,NULL,NULL,3,NULL,5,NULL
+70,"2023-01-11 14:37:01.976-03","2023-01-11 14:40:33.466-03",NULL,NULL,NULL,"A portal to the wisdom nature holds.","“When we ask nature, first we quiet our human cleverness. Then we ask, and then we listen. The answer is the echo that bounces off of the land herself. With the solution in hand, we always end the circle by saying thank you.”  - Jeanine Benyus","ACTIVO","2050-01-01 00:00:00","2023-01-01 00:00:00",NULL,NULL,NULL,NULL,NULL,"Ask Nature",10,NULL,NULL,NULL,NULL,NULL,NULL,NULL,32,NULL,NULL,3,NULL,NULL,NULL
+65,"2023-01-02 15:17:17.441-03","2023-01-02 16:15:36.434-03",NULL,NULL,NULL,NULL,NULL,"ACTIVO",NULL,"2023-01-01 00:00:00",NULL,"2023-01-02 09:00:00",NULL,NULL,NULL,"Quanam",2,NULL,NULL,NULL,NULL,NULL,3,NULL,7,NULL,NULL,3,NULL,5,NULL
+71,"2023-01-12 08:41:29.407-03","2023-01-12 08:41:29.407-03",NULL,NULL,NULL,"Datos abiertos vinculados a la gestión ambiental",NULL,"ACTIVO","2050-01-10 00:00:00","2023-01-01 00:00:00",NULL,"2023-01-01 00:00:00",NULL,NULL,NULL,"OAN - Observatorio Ambiental Nacional (UY)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,32,NULL,NULL,3,NULL,NULL,NULL
+51,"2022-12-13 08:11:29.851-03","2023-02-27 23:30:07.054-03",NULL,NULL,NULL,"El perfil requerido para este llamado está orientado a la formación ...",NULL,"ACTIVO","2030-12-31 00:00:00","2022-11-24 18:00:00","2022-12-19 12:00:00","2022-12-05 12:00:00",NULL,NULL,NULL,"Llamado Técnico Regional en conservación y producción sostenible para apoyo a la gestión de áreas protegidas",5,NULL,NULL,NULL,NULL,NULL,10,NULL,9,NULL,NULL,3,10,NULL,3
+52,"2022-12-13 09:12:05.908-03","2023-02-27 23:30:34.121-03",NULL,NULL,NULL,"Concurso de historias periodísticas. Cambio climático: la agenda impostergable",NULL,"ACTIVO","2030-12-31 00:00:00","2022-12-01 09:00:00","2023-03-01 09:00:00","2022-12-01 09:00:00",NULL,NULL,NULL,"Concurso cambio climático",50,NULL,NULL,NULL,NULL,NULL,10,NULL,9,NULL,NULL,3,5,NULL,5
+54,"2022-12-13 10:18:56.623-03","2023-02-27 23:31:21.893-03",NULL,NULL,NULL,"Convocatoria a presentación de proyectos por parte de organizaciones de la sociedad civil, en 3 líneas temáticas: restauración de ecosistemas (pastizales y monte nativo), producción sostenible y ecoturismo y turismo rural comunitario.",NULL,"ACTIVO","2030-12-31 00:00:00","2022-12-01 06:00:00","2021-12-31 06:00:00","2022-12-01 06:00:00",NULL,NULL,NULL,"Convocatoria 2021 - Programa Pequeñas Donaciones Uruguay",50,NULL,NULL,NULL,NULL,NULL,7,NULL,9,NULL,NULL,3,10,NULL,10
+46,"2022-11-28 14:35:44.55-03","2023-03-03 17:33:17.339-03",NULL,NULL,NULL,"Copete Proyecto de prueba","De este lado del mundo, para el pueblo Guaraní, Ambá es el lugar hacia donde fijar nuestra dirección, nuestro propósito más alto. Del otro lado de la Tierra, en el extremo oriente de Rusia, para los indígenas Udegei, Ambá es el tigre del amur: el felino más grande de la Siberia. Este animal es para los Udegei, además, la personificación del Espíritu del Bosque. En nuestro caminar, descubrimos que la presencia de los felinos marca la riqueza y la abundancia de biodiversidad que sobrevive en las Sierras de Rocha. Por eso, elegimos llamarnos AMBÁ, para honrar a todos los seres que custodian esta riqueza, y habitan en ella. Con humildad y alegría, nos integramos al servicio de la pureza del lugar, en busca del equilibrio: del centro.No somos superiores a los seres que aquí habitan. Y tampoco nos sentimos por debajo. Queremos ocupar nuestro lugar como seres humanos, y estamos dispuestos a transformar nuestra relación con la biodiversidad, porque formamos parte de ella. El desafío somos nosotros mismos: transformar nuestras costumbres depredadoras, para dejar de hacer de la tierra un desierto. Pero no es esta nuestra única misión, nos proponemos contagiar el espíritu, compartir este saber y guiar a otros hacia este camino.","ACTIVO","2023-03-02 00:00:00","2022-11-03 09:00:00","2023-10-02 00:00:00","2014-08-11 03:00:00","ContactoDelProyecto@contacto.org","Info adicional de proyecto de prueba.",NULL,"Nombre Proyecto de prueba",5,NULL,NULL,NULL,NULL,NULL,7,NULL,10,1,NULL,3,7,NULL,NULL
+72,"2023-03-03 17:38:02.295-03","2023-03-03 17:44:31.145-03",NULL,NULL,NULL,NULL,"Gestión de Residuos RAEE","ACTIVO","2023-05-10 03:00:00","2023-02-28 03:00:00",NULL,"2023-02-28 03:00:00",NULL,NULL,NULL,"NewLife",10,NULL,NULL,NULL,NULL,NULL,22,NULL,7,NULL,NULL,3,NULL,5,NULL
+73,"2023-03-03 17:48:15.809-03","2023-03-03 17:48:15.809-03",NULL,NULL,NULL,"prueba Mayari",NULL,"ACTIVO","2023-05-10 00:00:00","2023-02-01 00:00:00","2023-10-05 00:00:00","2023-02-01 00:00:00",NULL,NULL,NULL,"prueba Mayarí",NULL,NULL,NULL,NULL,NULL,NULL,3,1,8,NULL,"",3,12,NULL,NULL
+18,"2022-09-13 13:23:36.964-03","2023-03-06 14:22:46.151-03",NULL,NULL,NULL,NULL,"Fundador de Agencia Neto desde 1997, agencia de comunicación con énfasis en innovación social.  Graduado en Marketing en la Universidad ORT Uruguay.   Actualmente es una empresa B especializada en el área de comunicación responsable. En los últimos años se ha especializado en el desarrollo de proyectos de Responsabilidad Social corportiva, asesoría estratégica de comunicación orientada a la sustentabilidad, así como en la generación de proyectos de impacto social, ambiental y económico convirtiéndose en referente local en sustentabilidad y comunicación interna. Brinda sus servicios a compañías locales y multinacionales de diversos rubros.   En 2015 funda y dirije la empresa B- Yo ELIJO (www.yoelijokids.com), especializada en generar programas que impacten tangible y positivamente en el desarrollo de los niños, niñas y adolescentes a través de dos pilares fundamentales: la educación y la comunicación.   A partir del 2016 es Director de FIIS Uruguay- festival internacional de innovación social, proyecto que impulsa la innovación social y la generación de proyectos de impacto en la sociedad, que junto con su equipo y diversos asociados, esta impulsando un proyecto de fortalecimiento de los agentes de cambio en Uruguay, proponiendo un cambio de paradigma basado en la gestión de nuevas economías.  Actualmente es Director Ejecitivo de SIstema B Uruguay   http://about.me/bebogold","ACTIVO",NULL,NULL,NULL,"2022-10-02 06:00:00",NULL,"Info adicional de bebo",NULL,"Bebo TEST",10,NULL,NULL,NULL,NULL,NULL,5,NULL,7,NULL,"",3,NULL,4,1
+74,"2023-05-21 12:41:51.179-03","2023-05-21 13:53:08.478-03",NULL,NULL,NULL,"Have you ever wondered which bus comes the most often? Which one is fuller on average? Which makes more stops?",NULL,"ACTIVO",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"The STM in figures",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,36,NULL,"<p><strong>Have you ever wondered which bus comes the most often?</strong><br />
+<br />
+<strong>Which one is fuller on average?</strong><br />
+<br />
+<strong>Which makes more stops?</strong></p>
+
+<p><strong>​​​​​​​</strong></p>
+
+<h4>Presentation:</h4>
+
+<p>In this blog we are going to answer all these questions and much more, showing how we can use a historical record of sales data (in this case tickets), to obtain interesting conclusions, understand the current dynamics of the business and see what the main problems are to be addressed. All this through the generation of tables, graphs and animations that are both explanatory and attractive to the eye, to facilitate the understanding of the millions of data to be processed.</p>
+
+<h4>&nbsp;</h4>
+
+<h4>Available data:</h4>
+
+<p>In this case, we are going to use the STM data on tickets sold, which are public and are published monthly here. Due to the massiveness of these (approximately 20 million tickets are sold per month, which means that on average for every two Montevideans, one travels on public transport daily) we are going to work with the data of a single month, in this case July of this year, 2022. Which prevents us from doing some interesting analysis, for example: Does the type of demand change by season? Are fewer tickets sold when school end? etc. However, it is necessary to be able to do an analysis that does not require much computing time or memory availability.</p>
+
+<p>Now, referring to the data itself, we have a table that show us of all the tickets sold during the month, including the date and time the passenger bought it, which bus stop was, which line, the type of passenger, if it is a transfer, etc.</p>
+
+<p>Next, we will see how we can use all this information, to convert 23 million pieces of numerical data into a series of graphs and other utilities, to summarize them and give them interpretability.</p>
+
+<p>Two clarifications before beginning; first of all, is that we are going to use the term &ldquo;tickets sold&rdquo; for all types of tickets that are issued (including transfers or free tickets); and secondly, all the analyzes carried out will be based on the data for the month of July, although we do not mention it.</p>
+
+<p>With that said, it&rsquo;s time to start answering the questions we posed at the beginning.</p>
+
+<h4>&nbsp;</h4>
+
+<h4>Most popular lines:</h4>
+
+<p>Let&rsquo;s start by revealing the first big question, what is the line most used by Montevideans? How many people use it? To answer this, let&rsquo;s see the following graph which shows us the 10 most used lines, together with the number of tickets that were sold in the month of analysis, July.</p>
+
+<p>&nbsp;</p>
+
+<div><img alt="""" src=""/images/STM01.png"" /></div>
+
+<p>&nbsp;</p>
+
+<p>As we can see, the most used line is &ldquo;103&rdquo;, with a total of 790,000 tickets sold, a noticeable amount below, line &ldquo;G&rdquo; appears, with the amount of 630,000 tickets, and at the end, line &ldquo;185 &ldquo;with 570 thousand.</p>
+
+<p>The first thing we can deduce is that the line &ldquo;103&rdquo; is the most widely used bus line, with a considerable difference compared to its immediate competitors, which are much more even with each other. Also note the great magnitude of these numbers, meaning that almost 2 million Uruguayans get on one of these 3 lines every month.</p>
+
+<p>WJust out of curiosity we can also see the opposite, that is, the least used lines.</p>
+
+<p>&nbsp;</p>
+
+<div><img alt="""" src=""/images/STM2.png"" /></div>
+
+<p>&nbsp;</p>
+
+<p>As we can see, the least popular are mostly local lines, such as line &ldquo;L19&rdquo;, or experimental lines, such as line &ldquo;135&rdquo;.</p>
+
+<p>Another curious thing that we can look at is if this top 10 is the same every day of the week, that is, will there be lines that are used more on weekends? Are there buses that people only use to go to work? To try to answer these questions, we can rearm the first graph, but now differentiating by day of the week.</p>
+
+<p>&nbsp;</p>
+
+<div><img alt="""" src=""/images/STM03.png"" /></div>
+
+<p>&nbsp;</p>
+
+<p>What we can see at first glance is that overall, the most used lines are the same every day of the week, except for the last position, where &ldquo;307&rdquo; or &ldquo;110&rdquo; appear during the week, while Saturday and Sunday &ldquo;137&rdquo; or &ldquo;405&rdquo; appears. One could try to interpret these results based on their routes. Perhaps the &ldquo;405&rdquo; appears on weekends as its destination is Parque Rodo, for example.</p>
+
+<p>We already noticed that practically the global top 10 is maintained day by day, now we can see if it is maintained throughout the day, hour by hour. For this purpose, let&rsquo;s see how the demand for these buses progresses throughout the day in the following graph.</p>
+
+<p>&nbsp;</p>
+
+<div><img alt="""" src=""/images/STM04.png"" /></div>
+
+<p>&nbsp;</p>
+
+<p>As we can see, in general all the lines at the top have the same behavior, very few trips at dawn (the number of vehicles is reduced), then it begins to rise progressively until it reaches a maximum at 7 o&rsquo;clock (people go to work), then it goes down a bit and peaks again at noon (downtown areas are on the move), then demand stays high until it peaks at 5 p.m. (people come home from work), and then it starts to decline throughout the afternoon until nightfall.</p>
+
+<p>The &ldquo;103&rdquo; maintains the wide advantage throughout the day, while others such as the &ldquo;G&rdquo; line are surpassed at nightfall. From this we could deduce that there are more popular lines at certain times of the day than others, which reflects that there are more crowded areas of Montevideo depending on the time of day, which generates these variations.</p>
+
+<p>From these statistics, we can ask ourselves an interesting question: How distributed is the use of the transportation system in the different lines? In these cases, it is interesting to mention Pareto&rsquo;s law, which is an empirical law that tells us that 80% of the sales come from the sale of 20% of the available products. Applied to our question, the law would say that 80% of the tickets are sold by 20% of the lines, while the other 80% of the lines only contribute to 20% of the sales.</p>
+
+<p>To answer the question we can use a Pareto chart, which tells us, by taking a percentage of the lines, how much of the total percentage of monthly sales they represent.</p>
+
+<p>&nbsp;</p>
+
+<div><img alt="""" src=""/images/STM05.png"" /></div>
+
+<p>&nbsp;</p>
+
+<p>From the graph, we see how 80% of the sales are covered with 35% of the available lines. Which is more equitable than what the Pareto law proposes. Although it can also be said that, with half the lines, 92% of the total demand can be covered. Or also that 25% of the demand comes from the top 10 lines that we previously analyzed.</p>
+
+<p>However, in order to draw direct conclusions from this type of analysis, we should assume that the population of Montevideo is uniformly distributed throughout the capital, which is categorically false, since there are very centrally located areas within Montevideo with high population and service density, and other areas with much lower population density and isolated areas. Because of this, lines will be necessary to provide service to these few (relatively) people in the periphery, generating the effect shown in the graph.</p>
+
+<p>&nbsp;</p>
+
+<h4>&nbsp;</h4>
+
+<h4>&nbsp;</h4>
+
+<h4>Busiest stops:</h4>
+
+<p>In the same way that we can identify which were the most used lines, we can also see which were the most used stops during the month of analysis. Will they be part of the route of the most used lines? Will they be located in the central areas of Montevideo? Is there one noticeably busier than the others, as was the case with the lines? We can answer all these questions and more by analyzing the data on which stops the tickets were sold at.</p>
+
+<p>Again, let&rsquo;s look at the graph to draw the conclusions.</p>
+
+<p>&nbsp;</p>
+
+<div><img alt="""" src=""/images/STM06.png"" /></div>
+
+<p>&nbsp;</p>
+
+<p>We can see that, with a considerable advantage over its competitors, the most used stop was Agraciada y Freire, in the area of the viaduct, one of the nerve centers of Montevideo. For example, the &ldquo;G&rdquo; line makes a stop here, which was the second most used line of the STM. Secondly, the Portones stop appears, the destination of the &ldquo;G&rdquo; line as well. Then Agraciada and Freire appear again, but now in the opposite direction, towards Belvedere. Then there are some notable ones, such as the Punta Carretas shopping mall, the Montevideo shopping mall or the Cerro terminal, where we can easily interpret why they appear in the top.</p>
+
+<p>Beyond appearances, this analysis can be very useful to understand which are the areas of Montevideo with the most movement, to understand in which areas services, offices, etc. are concentrated. Also useful in this analysis is the fact that the data contains the date the ticket was issued, so we can also see how these areas vary throughout the day, understand if Montevideo behaves differently at night , if people are migrating from areas throughout the working day, etc. Although we are not going to carry out this in-depth analysis on the blog, we will use the time data to explore some particular cases, or as we did with the hours of greatest demand for the top lines.</p>
+
+<p>&nbsp;</p>
+
+<h4>&nbsp;</h4>
+
+<h4>&nbsp;</h4>
+
+<h4>Busiest hours and days:</h4>
+
+<p>Taking advantage of the date and time data of the tickets issued, we can try to see which days are the busiest in the country&rsquo;s capital, or at what times people use public transport the most.</p>
+
+<p>For that, let&rsquo;s see the following graph, which shows us the total number of tickets sold in the month, depending on the time and for each day of the week; and try to analyze it.</p>
+
+<p>&nbsp;</p>
+
+<div><img alt="""" src=""/images/STM07.png"" /></div>
+
+<p>&nbsp;</p>
+
+<p>As we can see, the behavior per hour is relatively the same from Monday to Friday (the same that we analyzed when the most popular lines), and the number of tickets issued seems to be very similar on these days, except on Mondays, where we see a significantly lower amount. Why is this? Why Mondays are much more inactive? To answer this, we must remember that we are analyzing only one month, which had 4 Mondays, and one of them, July 18, was a non-working holiday, therefore, it is expected that very few tickets were sold on that day. compared to the other Mondays. Surely if we analyzed another month, we would see how Mondays would behave much more in line with the rest of the working days.</p>
+
+<p>On the other hand, what is true is that there is much less demand on Saturdays and Sundays than on other days. Which makes sense since most people work Monday through Friday, although a lot of people work Saturdays as well, which is why Saturday looms large over Sunday, which is definitely the busiest day, because that&rsquo;s when the big Most people take the opportunity to stay at home.</p>
+
+<p>Another thing that we can see is how at night, the days with the most activity are Fridays and Saturdays, while, at dawn, Saturdays and Sundays. This can surely be interpreted as Montevideo&rsquo;s nightlife, which occurs mainly on weekends.</p>
+
+<p>&nbsp;</p>
+
+<h4>&nbsp;</h4>
+
+<h4>&nbsp;</h4>
+
+<h4>The largest companies:</h4>
+
+<p>Another brief but interesting thing that we can see is how the ticket sales are distributed by the different companies (CUTCSA, COETC, UCOT, COMESA). For that let&rsquo;s look at the following bar graph.</p>
+
+<p>&nbsp;</p>
+
+<div><img alt="""" src=""/images/STM08.png"" /></div>
+
+<p>&nbsp;</p>
+
+<p>We can clearly see the superiority of CUTCSA, which accounts for about 64% of the market. On the other hand, the rest of the companies, among which the remaining 36% of the demand is distributed, have a similar participation.</p>
+
+<h4>&nbsp;</h4>
+
+<h4>Distribution of users by categories:</h4>
+
+<p>When STM cards are issued, there are various categories of them, for example, students, retirees, common users, etc. In the following table we can see how these categories are distributed.</p>
+
+<p>&nbsp;</p>
+
+<div><img alt="""" src=""/images/STM09.png"" /></div>
+
+<p>&nbsp;</p>
+
+<p>As we can see, most of the tickets are issued to common users, these being a around half of the total consumption. Then the students follow, with an important percentage. Then the &ldquo;NOT APPLICABLE&rdquo; category appears, in which are those users who do not use the card and pay in cash. Then we see the retirees and other categories.</p>
+
+<p>It is important to note that in these cases where there are much smaller values than others, it is convenient to use tables instead of graphs, in order to correctly appreciate the magnitude of these values.</p>
+
+<p>One thing we might ask ourselves is, are these percentages the same throughout the day? For that, let&rsquo;s see now if the following graph.</p>
+
+<p>&nbsp;</p>
+
+<div><img alt="""" src=""/images/STM10.png"" /></div>
+
+<p>&nbsp;</p>
+
+<p>Where we can see how the representation changes throughout the day, for example, common users are always the majority, but especially at dawn, where students reach their minimum representation during the day. We can also see other curious things, such as the fact that those linked to transport are almost nil throughout the day except at 3 in the morning, where they have a considerable percentage.</p>
+
+<p>Exactly the same analysis can be done for the days of the week. Could it be that the student representation is greater from Monday to Friday? And what about retirees? For that, let&rsquo;s look at the following graph.</p>
+
+<p>&nbsp;</p>
+
+<div><img alt="""" src=""/images/STM11.png"" /></div>
+
+<p>&nbsp;</p>
+
+<p>We can then see that, despite our expectations, there are no significant changes throughout the days, always maintaining the same proportions, what is good to highlight.</p>
+
+<p>Although we have been analyzing these 9 categories, they are divided into different subcategories, for example, free or not free students, class A or class B retirees, etc. Although there are also categories such as common users, which are not subdivided. Considering this, let&rsquo;s see a graph of how these subgroups are distributed within their category.</p>
+
+<p>&nbsp;</p>
+
+<div><img alt="""" src=""/images/STM12.png"" /></div>
+
+<p>&nbsp;</p>
+
+<p>From here several analyzes could be made, but for that one would have to understand what each category means, and what criteria they use to segment users; which is irrelevant in this analysis. We are going to stay with more trivial things, like the fact that students who travel for free are approximately half of the total number of students, or that most of the users that appear as &ldquo;LINKED TO TRANSPORT&rdquo; are the same transport workers.</p>
+
+<p>Finally, let&rsquo;s ask one last question based on the categories, which we already associate with the days, with the time, and we did not do it with the lines. Could it be that there are lines where more passengers of a certain category travel than others? For example, which lines have the highest percentage of students? And in which less?</p>
+
+<p>To answer that, let&rsquo;s look at the following table, where on the left we see the 10 buses with the highest percentage of tickets issued for students, and on the right the 10 with the least. Note that to create the table, the local lines with few users were omitted in order to obtain more robust and significant results.</p>
+
+<p>&nbsp;</p>
+
+<div><img alt="""" src=""/images/STM13.png"" /></div>
+
+<p>&nbsp;</p>
+
+<p>First of all, let&rsquo;s see that the line with the highest student representation is line 117. We could try to interpret this result based on the path of the line. For example, we know that its route goes through several faculties, such as law, engineering or economics, architecture or psychology, and it also passes through some large high schools such as IAVA or Zorrilla.</p>
+
+<p>Let&rsquo;s note that line &ldquo;117&rdquo; reaches almost 30% of students, while the global representation we had seen was 22%. Then follow other lines with a similar percentage, such as &ldquo;140&rdquo; or &ldquo;407&rdquo;.</p>
+
+<p>On the other hand, the line with the least representation is 133, with only 16%, a similar amount below the average, then &ldquo;117&rdquo; was above.</p>
+
+<p>This type of analysis, carried out in greater depth and considering the time and day, would help us to understand how students move around Montevideo. With this we could deduce how decentralized are the educational centers in the city. It could even give us indications of in which area to build new ones, to facilitate access to it.</p>
+
+<h4>&nbsp;</h4>
+
+<h4>Use of transfers:</h4>
+
+<p>One possibility offered by the STM is that of transfers, which consists of concatenating several trips on different lines for the price of a single ticket, provided that these trips are made within a certain time.</p>
+
+<p>The most usual thing is that the people who use the transfers are on two trips, however, there is no limitation on this and other people use it more times. This leads us to some questions, for example, how common are transfers? What was the transfer with the most trips?</p>
+
+<p>To answer this, we are going to use one of the data that we have available, which is the transfer number that is registered with each ticket issued. From this we can create the following graph, where we see the number of transfers per number of trips.</p>
+
+<p>&nbsp;</p>
+
+<div><img alt="""" src=""/images/STM14.png"" /></div>
+
+<p>&nbsp;</p>
+
+<p>Let&rsquo;s first note that the graph is on a logarithmic scale, a way of graphing very large and very small values at the same time. Either way, we can also make a table by adding the percentages.</p>
+
+<p>&nbsp;</p>
+
+<div><img alt="""" src=""/images/STM15.png"" /></div>
+
+<p>&nbsp;</p>
+
+<p>From these two figures we can see how most people do not make transfers, and of those who do, the vast majority do so only once. We see that very few make several transfers, however, there are some people who manage to do more than 10. But how much was the record for transfers in the month of July? Well, the record is&hellip; 24 transfers. We can even see that the person who did this was an common user, with a 2-hour ticket. Surely these people who make several transfers are street vendors or those who go up to sing and/or play; who get a 2-hour ticket and go from bus to bus for the duration of the ticket.</p>
+
+<h4>&nbsp;</h4>
+
+<h4>The fastest, and the slowest:</h4>
+
+<p>Everyone has ever felt that the bus they are waiting for takes a long time to pass, and that it should do so more frequently, or that a certain other bus passes very often for the few people it carries.</p>
+
+<p>That is why in this section we are going to try to analyze some issues related to the frequency with which the different lines pass (something we had not seen until now), and how many people move in comparison.</p>
+
+<p>To answer these questions, but also generate others, let&rsquo;s look at the following graph. In it we represent the 10 lines that used the most times in the month, along with the total number of passengers they had.</p>
+
+<p>&nbsp;</p>
+
+<div><img alt="""" src=""/images/STM16.png"" /></div>
+
+<p>&nbsp;</p>
+
+<p>First, let&rsquo;s note that while some lines do reappear, it&rsquo;s not the same top 10 we saw when we looked at tickets sold. We also see that the bus that passes the fastest is &ldquo;181&rdquo;, followed by &ldquo;183&rdquo; and &ldquo;103&rdquo;, which was the one used by the most people. Then we can also see that the bus-passenger relationship is not the same for all lines. For example, it could be said that on average the line &ldquo;181&rdquo; is emptier than the line &ldquo;103&rdquo;, since their passenger-bus ratio is lower. To see this relationship in greater detail, let&rsquo;s look at the following graph, which shows the lines with the highest and lowest passenger-bus ratio.</p>
+
+<p>&nbsp;</p>
+
+<div><img alt="""" src=""/images/STM17.png"" /></div>
+
+<p>&nbsp;</p>
+
+<p>We see, for example, that the busiest line on average is line &ldquo;G&rdquo;, with approximately 60 passengers per vehicle (it does not mean that 60 go at the same time, but that on average 60 people get on throughout the trip). We also see that the lines that are emptiest are the local lines, with about 10 passengers per vehicle on average. This data on local lines is closely related to what we discussed when we talked about the Pareto relationship, which was related to the centrality of Montevideo and the distribution of services and infrastructure.</p>
+
+<p>Another thing we can do is mix this information with time to see how the number of buses running changes throughout the day. How well will it correlate with demand? For that, let&rsquo;s see the graph that shows us precisely the passenger-bus relationship throughout the day.</p>
+
+<p>&nbsp;</p>
+
+<div><img alt="""" src=""/images/STM18.png"" /></div>
+
+<p>&nbsp;</p>
+
+<p>In the red bars that represent the passengers per hour, we see the same trend that we already analyzed previously. In the blue ones, which are the buses in circulation per hour, we see a behavior similar to that of the passengers, but with some differences. The main difference is that while the quantity of demand decreases in the period from 8am to 12am, the circulation remains constant in that same period.</p>
+
+<p>In general, we could say that the circulation increases sharply from 5am, to reach a constant level around 10am, where it is maintained until 7pm where it begins to gradually decline.</p>
+
+<p>Some conclusions that we could draw are that, for example, since circulation is constant from 10am to 6pm, but not the number of people using public transport, buses will tend to be more crowded in the afternoon than in the morning.</p>
+
+<p>Does this mean that the frequency should be reduced to hours like 10am, to raise it to others like 6pm? This is not necessarily the case because many other factors are involved that we are not considering in this analysis. We must also consider the behavior of each particular line, the geographic coverage, not leaving anyone without coverage, etc.</p>
+
+<h4>&nbsp;</h4>
+
+<h4>A particular analysis:</h4>
+
+<p>As we have been saying, more complex analyzes could be done by combining different analyzes that we did. To close the blog, we are going to show an analysis of a particular line, for example, line &ldquo;199&rdquo; (Punta Carretas-Cementerio Norte). We are going to try to see how the use of the different stops on its route evolves throughout the day. Are the most used stops always the same? Is there a stop that is only used at a certain time of the day?</p>
+
+<p>In addition, we are going to show another data visualization tool that is animations, which allows us to add more information, usually temporary. Let&rsquo;s see then the following animation which shows us how the use of the stops evolves throughout the day (we only consider the stops on the outbound journey).</p>
+
+<p>&nbsp;</p>
+
+<div><img alt="""" src=""/images/STM19.png"" /></div>
+
+<p>&nbsp;</p>
+
+<p>In general, we see that the busiest stop is &ldquo;H. Miranda&rdquo;, i.e. the Punta Carretas shopping mall, however, we see how it is not until midday when it is consolidated as such, while in the morning it is not as used as others. Then we can also see how the area of origin (Punta Carretas) is always more crowded than the destination area (Cementerio Norte), which makes sense considering that Punta Carretas is one of the neuralgic points of Montevideo. We can also see that there are stops that are always less crowded than their adjacent ones, or that there are others that oscillate throughout the day, or some that have a group behavior, among many other things that we could see and interpret from the animation.</p>
+
+<h4>&nbsp;</h4>
+
+<h4>Conclusions:</h4>
+
+<p>As we said at the beginning, the objective of this analysis was to answer some questions that we all asked ourselves at some time, in addition to serving as an excuse to show the potential of tabular data analysis through graphs, tables, and animations. Beyond that, one may be tempted to think about possible improvements or optimizations of the STM that could be made based on what has been seen. However, it must be considered that managing a system on which the majority of the population of the country&rsquo;s capital depends is not so simple; therefore, we must be cautious with the conclusions we can draw, remembering that there are thousands of variables to consider when analyzing these things, as we have commented on some occasions. But this does not mean that these analyzes cannot be used to make significant improvements; as long as they are focused on the correct way, being clear about what is being sought and not simply exploring the data; interesting results can be reached that result in system optimization.</p>
+
+<p>Also remember that, although throughout the blog we focus on the STM data, we must not lose the general vision that this type of analysis can be performed on almost any set of data structured in this way. Thus, being able not only to visually understand the data, but also to understand key factors of the system and even to optimize it.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Ivan Abatte, Data &amp; Analytics Consultant</strong></p>
+",7,NULL,NULL,NULL
